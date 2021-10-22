@@ -21,25 +21,38 @@ to designate a section of text as a heading.   A # at the beginning of a line in
 the largest heading size.   As you increase #s, all the way up to 6 ######, the heading
 gets smaller and smaller but retains the heading status.
 
-{
-# Top Headings
-## 1st Mid-Level Headings
-### 2nd Mid-Level Heading
-#### 3rd Mid-Level Heading
-##### Small Heading
-###### Small Heading
-}
+```
+# Top Headings <h1> Tag
+## 1st Mid-Level Headings <h2> Tag
+### 2nd Mid-Level Heading <h3> Tag
+#### 3rd Mid-Level Heading <h4> Tag
+###### Small Heading <h6> Tag
+```
+
+# Top Headings <h1> Tag
+## 1st Mid-Level Headings <h2> Tag
+### 2nd Mid-Level Heading <h3> Tag
+#### 3rd Mid-Level Heading <h4> Tag
+###### Small Heading <h6> Tag
+
+
+
 
 ## Quotes
 
 Quotes are really simple.   All you need to do is place a > before each line
 that you are quoting.   
 
-{
+```
 >Markdown is a way to style text on the web. You control the display of the document;
 >formatting words as bold or italic, adding images, and creating lists are just a few 
 >of the things we can do with Markdown. Mostly, Markdown is just regular text with a 
 >few non-alphabetic characters thrown in, like # or *.
-}
+```
 
+--------------------------------------------------------------------------------------
 
+>Markdown is a way to style text on the web. You control the display of the document;
+>formatting words as bold or italic, adding images, and creating lists are just a few 
+>of the things we can do with Markdown. Mostly, Markdown is just regular text with a 
+>few non-alphabetic characters thrown in, like # or *.
