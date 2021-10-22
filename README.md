@@ -19,12 +19,12 @@ mardown intrepreted versions of the example will be shown.
 ```
 Text can easily be emphasized using **bold** or *italic* sections of text.
 More complicated fuctions like links are still easy like this link to
-[GitHub's Mastering Markdown page](http://guides.github.com/features/mastering-markdown/)
+[GitHub's Mastering Markdown page](https://guides.github.com/features/mastering-markdown/)
 ```
 
 Text can easily be emphasized using **bold** or *italic* sections of text.
 More complicated fuctions like links are still easy like this link to
-[GitHub's Mastering Markdown page](http://guides.github.com/features/mastering-markdown/)
+[GitHub's Mastering Markdown page](https://guides.github.com/features/mastering-markdown/)
 
  
 
@@ -39,20 +39,18 @@ gets smaller and smaller but retains the heading status.
 ##### Headings Example:
 
 ```
-# Top Headings <h1> Tag
-## 1st Mid-Level Headings <h2> Tag
-### 2nd Mid-Level Heading <h3> Tag
-#### 3rd Mid-Level Heading <h4> Tag
-###### Small Heading <h6> Tag
+# Largest Heading (h1)
+## 2nd Heading (h2)
+### 3rd Heading (h3)
+###### Smallest Heading (h6)
 ```
 
 --------------------------------------------------------------------------------------
 
-# Top Headings <h1> Tag
-## 1st Mid-Level Headings <h2> Tag
-### 2nd Mid-Level Heading <h3> Tag
-#### 3rd Mid-Level Heading <h4> Tag
-###### Small Heading <h6> Tag
+# Largest Heading (h1)
+## 2nd Heading (h2)
+### 3rd Heading (h3)
+###### Smallest Heading (h6)
 
 
 
