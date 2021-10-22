@@ -18,9 +18,13 @@ mardown intrepreted versions of the example will be shown.
 
 ```
 Text can easily be emphasized using **bold** or *italic* sections of text.
+More complicated fuctions like links are still easy like this link to
+[GitHub's Mastering Markdown page](http://guides.github.com/features/mastering-markdown/)
 ```
 
 Text can easily be emphasized using **bold** or *italic* sections of text.
+More complicated fuctions like links are still easy like this link to
+[GitHub's Mastering Markdown page](http://guides.github.com/features/mastering-markdown/)
 
  
 
