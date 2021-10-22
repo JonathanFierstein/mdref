@@ -75,3 +75,52 @@ that you are quoting.
 >formatting words as bold or italic, adding images, and creating lists are just a few 
 >of the things we can do with Markdown. Mostly, Markdown is just regular text with a 
 >few non-alphabetic characters thrown in, like # or *.
+
+
+## Lists
+
+### Unordered Lists 
+
+This type of list could be a shopping list, for example.  Each list has a bullet point.
+An item can have subitems.
+
+##### Unordered Lists Example
+```
+* Eggs
+* Milk
+* Steaks
+	* T-Bones
+	* Skirt Steaks
+* Pork
+* Chicken
+```
+
+--------------------------------------------------------------------------------------
+
+
+* Eggs
+* Milk
+* Steaks
+	* T-Bones
+	* Skirt Steaks
+* Pork
+* Chicken
+
+### Ordered Lists
+
+This type of list is the same as unordered lists except instead of a bullet point,
+they have a number.
+
+##### Ordered Lists Example
+```
+1. Item 1
+2. Item 2
+3. Item 3
+```
+
+--------------------------------------------------------------------------------------
+
+1. Item 1
+2. Item 2
+3. Item 3
+
