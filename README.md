@@ -14,12 +14,25 @@ by the example and any syntactic explanation that is neccessary.  Finally,  raw 
 mardown intrepreted versions of the example will be shown.
 
 
+#####Example:
+
+```
+Text can easily be emphasized using **bold** or *italic* sections of text.
+```
+
+Text can easily be emphasized using **bold** or *italic* sections of text.
+
+ 
+
+
 ## Headings
 
 The first section will demonstrate headings.   Markdown makes it very simple
 to designate a section of text as a heading.   A # at the beginning of a line indicates
 the largest heading size.   As you increase #s, all the way up to 6 ######, the heading
 gets smaller and smaller but retains the heading status.
+
+#####Headings Example:
 
 ```
 # Top Headings <h1> Tag
@@ -28,6 +41,8 @@ gets smaller and smaller but retains the heading status.
 #### 3rd Mid-Level Heading <h4> Tag
 ###### Small Heading <h6> Tag
 ```
+
+--------------------------------------------------------------------------------------
 
 # Top Headings <h1> Tag
 ## 1st Mid-Level Headings <h2> Tag
@@ -42,6 +57,8 @@ gets smaller and smaller but retains the heading status.
 
 Quotes are really simple.   All you need to do is place a > before each line
 that you are quoting.   
+
+#####Quotes Example:
 
 ```
 >Markdown is a way to style text on the web. You control the display of the document;
