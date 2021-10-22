@@ -77,6 +77,8 @@ that you are quoting.
 >few non-alphabetic characters thrown in, like # or *.
 
 
+
+
 ## Lists
 
 ### Unordered Lists 
@@ -123,4 +125,21 @@ they have a number.
 1. Item 1
 2. Item 2
 3. Item 3
+
+
+
+
+
+## Embed an Image
+
+To insert and image into your Markdown document, do this:
+
+```
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+
+--------------------------------------------------------------------------------------
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
