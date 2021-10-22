@@ -16,12 +16,19 @@ mardown intrepreted versions of the example will be shown.
 
 ## Headings
 
-The first section will demonstrate headings.   Markdown allows text to be shown as a heading
-of several different sizes quite easily.
+The first section will demonstrate headings.   Markdown makes it very simple
+to designate a section of text as a heading.   A # at the beginning of a line indicates
+the largest heading size.   As you increase #s, all the way up to 6 ######, the heading
+gets smaller and smaller but retains the heading status.
 
 {
 # Top Headings
-## Mid-Level Headings
-### Minor Heading
+## 1st Mid-Level Headings
+### 2nd Mid-Level Heading
+#### 3rd Mid-Level Heading
+##### Small Heading
+###### Smallest Heading
 }
+
+
 
